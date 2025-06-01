@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "cinchsabandonedhouses:abandoned_house",
+      "weight": 1
+    },
+    {
+      "structure": "cinchsabandonedhouses:abandoned_birch_forest_house",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1642145474,
+    "spacing": 60,
+    "separation": 40,
+    "type": "minecraft:random_spread"
+  }
+}

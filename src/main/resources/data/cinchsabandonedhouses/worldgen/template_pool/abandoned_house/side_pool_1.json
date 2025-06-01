@@ -1,0 +1,24 @@
+{
+  "name": "cinchsabandonedhouses:abandoned_farm_house/side_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "cinchsabandonedhouses:abandoned_houses/normal_abandoned_houses/abandoned_house_extensions/abandoned_wheat_farm",
+        "processors": "cinchsabandonedhouses:abandoned_house_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "cinchsabandonedhouses:abandoned_houses/normal_abandoned_houses/abandoned_house_extensions/abandoned_potato_farm",
+        "processors": "cinchsabandonedhouses:abandoned_house_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

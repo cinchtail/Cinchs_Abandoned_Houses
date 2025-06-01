@@ -1,0 +1,51 @@
+{
+  "name": "cinchsabandonedhouses:abandoned_brick_house/start_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 7,
+      "element": {
+        "location": "cinchsabandonedhouses:abandoned_houses/normal_abandoned_houses/abandoned_brick_house",
+        "processors": "cinchsabandonedhouses:abandoned_house_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "cinchsabandonedhouses:abandoned_houses/normal_abandoned_houses/abandoned_farm_house",
+        "processors": "cinchsabandonedhouses:abandoned_house_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "cinchsabandonedhouses:abandoned_houses/normal_abandoned_houses/abandoned_house_basic_1",
+        "processors": "cinchsabandonedhouses:abandoned_house_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "cinchsabandonedhouses:abandoned_houses/normal_abandoned_houses/abandoned_house_basic_2",
+        "processors": "cinchsabandonedhouses:abandoned_house_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "cinchsabandonedhouses:abandoned_houses/normal_abandoned_houses/abandoned_house_small_ruined",
+        "processors": "cinchsabandonedhouses:abandoned_house_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}
