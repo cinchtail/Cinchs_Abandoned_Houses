@@ -1,7 +1,7 @@
 {
     "schemaVersion": 1,
     "id": "cinchsabandonedhouses",
-    "version": "1.20-1.20.6-1.0",
+    "version": "1.20-1.20.6-1.1",
     "name": "Cinch's Abandoned Houses",
     "description": "Abandoned house structures that randomly generate around the world.",
     "authors": [

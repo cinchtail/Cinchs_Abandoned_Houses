@@ -46,6 +46,15 @@
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "cinchsabandonedhouses:abandoned_houses/normal_abandoned_houses/abandoned_masons_house",
+        "processors": "cinchsabandonedhouses:abandoned_house_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
     }
   ]
 }
