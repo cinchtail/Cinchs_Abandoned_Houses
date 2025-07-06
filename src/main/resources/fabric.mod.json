@@ -9,7 +9,7 @@
   ],
   "contact": {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/cinchs-abandoned-houses/files/all?page=1&pageSize=20",
-    "sources": ""
+    "sources": "https://github.com/cinchtail/Cinchs_Abandoned_Houses/tree/Forge-Fabric-1.21.x"
   },
   "license": "MIT",
   "environment": "*",
