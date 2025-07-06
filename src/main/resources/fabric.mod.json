@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "cinchsabandonedhouses",
+  "version": "${version}",
+  "name": "Cinch's Abandoned Houses",
+  "description": "Abandoned house structures that randomly generate around the world.",
+  "authors": [
+    "Cinchtail"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/cinchs-abandoned-houses/files/all?page=1&pageSize=20",
+    "sources": ""
+  },
+  "license": "MIT",
+  "environment": "*",
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": ["1.21","1.21.1","1.21.2","1.21.3","1.21.4","1.21.5","1.21.6","1.21.7"]
+  }
+}
