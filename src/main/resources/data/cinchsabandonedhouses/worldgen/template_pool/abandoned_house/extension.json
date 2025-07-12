@@ -1,5 +1,5 @@
 {
-  "name": "cinchsabandonedhouses:abandoned_farm_house/farm_extension",
+  "name": "cinchsabandonedhouses:abandoned_house/extension",
   "fallback": "minecraft:empty",
   "elements": [
     {
@@ -14,16 +14,7 @@
     {
       "weight": 1,
       "element": {
-        "location": "cinchsabandonedhouses:abandoned_houses/normal_abandoned_houses/extensions/abandoned_wheat_farm",
-        "processors": "minecraft:empty",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-    {
-      "weight": 1,
-      "element": {
-        "location": "cinchsabandonedhouses:abandoned_houses/normal_abandoned_houses/extensions/abandoned_carrot_farm",
+        "location": "cinchsabandonedhouses:abandoned_houses/normal_abandoned_houses/extensions/abandoned_house_extension_1",
         "processors": "minecraft:empty",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
