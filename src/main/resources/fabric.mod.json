@@ -12,7 +12,7 @@
     "sources": "https://github.com/cinchtail/Cinchs_Abandoned_Houses/tree/Forge-Fabric-1.20.x"
   },
     "license": "MIT",
-  "icon": "icon.png",
+    "icon": "icon.png",
     "environment": "*",
     "depends": {
     	"fabricloader": ">=0.16.14",
