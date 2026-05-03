@@ -10,3 +10,4 @@ public class CinchsAbandonedHouses {
     public CinchsAbandonedHouses() {
     }
 }
+//give Dev chest{BlockEntityTag:{LootTable:"cinchsabandonedhouses:chests/abandoned_taiga_house"}}/give Dev chest{BlockEntityTag:{LootTable:"cinchsabandonedhouses:chests/abandoned_taiga_house"}}

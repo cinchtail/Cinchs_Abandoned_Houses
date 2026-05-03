@@ -7,6 +7,10 @@
     {
       "structure": "cinchsabandonedhouses:abandoned_birch_forest_house",
       "weight": 1
+    },
+    {
+      "structure": "cinchsabandonedhouses:abandoned_taiga_house",
+      "weight": 1
     }
   ],
   "placement": {
