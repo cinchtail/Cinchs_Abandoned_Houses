@@ -2,16 +2,16 @@
     "schemaVersion": 1,
     "id": "cinchsabandonedhouses",
     "version": "${version}",
-    "name": "${mod_name}",
-    "description": "${mod_description}",
+    "name": "Cinch's Abandoned Houses",
+    "description": "Abandoned house structures that randomly generate around the world.",
     "authors": [
-      "${mod_authors}"
+      "Cinchtail"
     ],
   "contact": {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/cinchs-abandoned-houses",
     "sources": "https://github.com/cinchtail/Cinchs_Abandoned_Houses/tree/Forge-Fabric-1.20.x"
   },
-    "license": "${mod_license}",
+    "license": "MIT",
     "icon": "icon.png",
     "environment": "*",
     "depends": {
