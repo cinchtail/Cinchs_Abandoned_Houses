@@ -1,0 +1,33 @@
+{
+  "name": "cinchsabandonedhouses:abandoned_house/extension",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "cinchsabandonedhouses:abandoned_houses/normal_abandoned_houses/extensions/abandoned_potato_farm",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "cinchsabandonedhouses:abandoned_houses/normal_abandoned_houses/extensions/abandoned_house_extension_1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "cinchsabandonedhouses:abandoned_houses/normal_abandoned_houses/extensions/abandoned_house_extension_2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

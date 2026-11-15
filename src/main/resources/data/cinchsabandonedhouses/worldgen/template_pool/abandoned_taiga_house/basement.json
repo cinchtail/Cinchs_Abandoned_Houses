@@ -1,0 +1,24 @@
+{
+  "name": "cinchsabandonedhouses:abandoned_taiga_house_1_connect_1/basement",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "cinchsabandonedhouses:abandoned_houses/abandoned_taiga_houses/basements/abandoned_taiga_house_2_basement_1",
+        "processors": "cinchsabandonedhouses:abandoned_house_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "cinchsabandonedhouses:abandoned_houses/abandoned_taiga_houses/basements/abandoned_taiga_house_2_basement_2",
+        "processors": "cinchsabandonedhouses:abandoned_house_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}
