@@ -65,11 +65,13 @@
               "function": "minecraft:set_count"
             }
           ],
-          "name": "minecraft:clay_ball"
+          "name": "minecraft:clay_ball",
+          "weight": 5
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:flower_pot"
+          "name": "minecraft:flower_pot",
+          "weight": 2
         },
         {
           "type": "minecraft:item",
